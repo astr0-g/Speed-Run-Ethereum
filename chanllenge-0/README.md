@@ -3,7 +3,7 @@
 # Deployed URL *
 https://exciting-stranger.surge.sh/
 # Etherscan Contract URL *
-https://goerli.etherscan.io/address/0xf0cad9b367d3b98e10dee234fb11dc38cd8dc0d7#code
+https://goerli.etherscan.io/address/0xf0cad9b367d3b98e10dee234fb11dc38cd8dc0d7
 
 
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
